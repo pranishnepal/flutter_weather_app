@@ -15,6 +15,6 @@ samples, guidance on mobile development, and a full API reference.
 
 # Screenshots:
 
-![](images/sc1.png)
-![](images/sc2.png)
-![](images/sc3.png)
+![](images/sc1.jpg)
+![](images/sc2.jpg)
+![](images/sc3.jpg)
