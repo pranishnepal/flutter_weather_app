@@ -15,4 +15,4 @@ const textFieldStyler = InputDecoration(
   ),
 );
 
-const openWeatherMapKey = "629569080eb27800c0da0ed775d82840";
+  const openWeatherMapKey = "YOUR API_KEY";
