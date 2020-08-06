@@ -1,5 +1,7 @@
 # weather_app
 
+A simple flutter app that helps you stay on top of the weather around you and all over the world, this is my first flutter project.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
